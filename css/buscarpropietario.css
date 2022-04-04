@@ -21,7 +21,7 @@ html{
 }
 
 body{
-    font-size: 24px; /*1rem =10px*/
+    font-size: 25px; /*1rem =10px*/
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
 }
@@ -133,7 +133,7 @@ header{
 }
 
 .busqueda{
-    border-radius: 25px;
+    border-radius: 30px;
     border: solid 1px var(--botones);
     background-color: var(--azulClaro);
     text-align: center;
@@ -152,7 +152,7 @@ header{
 }
 
 .boton1 button{
-    border-radius: 25px;
+    border-radius: 30px;
     width: 13.4rem;
     height: 4rem;
     color: var(--blanco);
@@ -262,7 +262,7 @@ td{
 
 .footer{
     background-color: var(--secundario);
-    border-radius: 0px 0px 25px 25px;
+    border-radius: 0px 0px 20px 20px;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
     margin-top: 2rem;
