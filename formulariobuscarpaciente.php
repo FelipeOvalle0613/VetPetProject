@@ -178,7 +178,7 @@
                                            
                                     <div class="fecha-vis-pac">
                                             <label>Fecha:</label>
-                                            <input class="input-date" type="date" placeholder="">
+                                            <input class="input-date" type="date" placeholder="Fecha y Hora">
                                     </div>        
                                         
                             </form> 
