@@ -9,7 +9,7 @@
 
         $bd = new PDO( 'mysql:host=localhost; dbname='.$basedts, $user, $clave,
                            array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
-        echo "Conexion exitosa <br>";
+       // echo "Conexion exitosa <br>";
 
     } catch (Exception $e) {
 
